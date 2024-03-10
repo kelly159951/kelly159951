@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @UIMicro
+- 👋 Hi, I’m @kelly159951
 - 👀 Sophomore @ Shanghai Jiao Tong University
-- 🌱 Artificial Intelligence
-- 💞️ 
-- 📫 uimicro@outlook.com
+- 🌱 Computer Science
+- 💞️ @UIMicro
+- 📫 1433806072@qq.com
 
 <!---
 UIMicro/UIMicro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
